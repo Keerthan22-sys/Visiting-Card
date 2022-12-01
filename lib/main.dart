@@ -52,7 +52,7 @@ class MyApp extends StatelessWidget {
                           Icons.phone,
                           color: Colors.teal,
                         ),
-                        title: Text('+91 9845871477',
+                        title: Text('Phone No',
                             style: TextStyle(
                               color: Colors.teal.shade900,
                               fontFamily: 'SourceSansPro',
@@ -71,7 +71,7 @@ class MyApp extends StatelessWidget {
                           color: Colors.teal.shade900,
                         ),
                         title: Text(
-                          'keerthangowdas222@gmail.com',
+                          'E-mail id',
                           style: TextStyle(
                             color: Colors.teal.shade900,
                             fontFamily: 'SourceSansPro',
